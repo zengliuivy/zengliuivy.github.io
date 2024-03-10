@@ -7,8 +7,9 @@ I'm a third year undergraduate student with a main focus on information and cont
 <br>
 Previously, In June 2021, received the bachelor degree from <a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics</a>(NUAA), Nanjing, China. And I majored in detection, guidance and control technology. My <a href="https://zengliuivy.github.io/research">research</a> has appeared in academic journals including <i>Signal, Image and Video Processing</i>, the <i>Chinese Optics Letters</i>, and the <i>Aerospace Systems</i>. Outside of Computer & Signal Processing, I like learning about traditional Chinese culture, music and the Japanese language.   
 <br>
+<br>
 During my research at the school, I received many honors,including school outstanding graduate, outstanding student scholarship, national encouragement scholarship, academic scholarship. Also, as a team member, I won the second prize in the 2nd national information fusion challenge which is an object detection and tracking competition.
 <br>
 <br>
-Download my <a src="cv.pdf" download="Liu Zeng- CV">CV</a><br>
+Download my <a pdf src="cv.pdf" download="Liu Zeng- CV">CV</a><br>
 <br>
